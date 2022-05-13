@@ -1,8 +1,5 @@
 ### Olá! Eu sou o Fabricio Lima 🗿
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabricio-de-lima-costa-087740202/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fabricio__lc/)
-
 [![Fabricio-Lima](https://github-readme-stats.vercel.app/api?username=Fabricio-Lima&theme=radical&show_icons=true)](https://github.com/Fabricio-Lima/)
 <br>
 [![Fabricio-Lima](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabricio-Lima&hide=html&layout=compact&theme=radical)](https://github.com/Fabricio-Lima/)
