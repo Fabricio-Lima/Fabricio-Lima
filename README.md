@@ -4,7 +4,7 @@
 <br>
 [![Fabricio-Lima](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabricio-Lima&hide=html&layout=compact&theme=radical)](https://github.com/Fabricio-Lima/)
 
-## Tecnologias 🚀
+## Technologies 🚀
 
 <div style="display: inline_block"><br/>
    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-E54B25?style=for-the-badge&logo=html5&logoColor=white">
