@@ -1,4 +1,4 @@
-### Olá! Eu sou o Fabricio Lima 🗿
+### Hi! I´m Fabricio Lima, welcome to my profile 🗿
 
 [![Fabricio-Lima](https://github-readme-stats.vercel.app/api?username=Fabricio-Lima&theme=radical&show_icons=true)](https://github.com/Fabricio-Lima/)
 <br>
