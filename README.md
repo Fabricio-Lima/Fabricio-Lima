@@ -1,7 +1,7 @@
-### Coding...☕
+### Hey bro, feel free to clone some repositories... ✌️
 
+## Statistics 📊
 [![Fabricio-Lima](https://github-readme-stats.vercel.app/api?username=Fabricio-Lima&theme=radical&show_icons=true)](https://github.com/Fabricio-Lima/)
-<br>
 [![Fabricio-Lima](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabricio-Lima&hide=html&layout=compact&theme=radical)](https://github.com/Fabricio-Lima/)
 
 ## Technologies 🚀
