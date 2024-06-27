@@ -1,7 +1,7 @@
 ### Hey bro, feel free to clone some repositories... ✌️
 
 ## Statistics 📊
-[![Fabricio-Lima](https://github-readme-stats.vercel.app/api?username=Fabricio-Lima&theme=radical&show_icons=true)](https://github.com/Fabricio-Lima/)
+<!--[![Fabricio-Lima](https://github-readme-stats.vercel.app/api?username=Fabricio-Lima&theme=radical&show_icons=true)](https://github.com/Fabricio-Lima/)-->
 [![Fabricio-Lima](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabricio-Lima&hide=html&layout=compact&theme=radical)](https://github.com/Fabricio-Lima/)
 
 ## Technologies 🚀
@@ -20,6 +20,8 @@
    <img align="center" alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
    <img align="center" alt="styled" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
    <img align="center" alt="golang" src="https://img.shields.io/badge/GoLang-00AED9?style=for-the-badge&logo=go&logoColor=white">
+   <img align="center" alt="laravel" src="https://img.shields.io/badge/Laravel-f5382e?style=for-the-badge&logo=laravel&logoColor=white">
+   <img align="center" alt="php" src="https://img.shields.io/badge/PHP-a8c7fa?style=for-the-badge&logo=php&logoColor=black">
 </div><br/>
 
 "the quieter you become, the more you are able to hear".
